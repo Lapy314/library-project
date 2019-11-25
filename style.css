@@ -1,0 +1,22 @@
+.wrapper { 
+    width: 50%;
+    margin: 0 auto;
+}
+
+ul {
+    margin: 0; 
+    margin-bottom: 20px;
+    padding: 0;
+    text-align: center;
+    list-style: none;
+    border: 1px solid black;
+}
+
+li {
+    padding: 20px 0px;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+}
